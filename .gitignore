@@ -1,0 +1,15 @@
+# Informações privadas
+.env
+
+# Ambiente virtual
+.venv/
+
+# Arquivos Python
+__pycache__/
+*.pyc
+
+# Testes
+.pytest_cache/
+
+# Configurações do PyCharm
+.idea/
